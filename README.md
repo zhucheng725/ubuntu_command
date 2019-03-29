@@ -20,6 +20,12 @@ $ sudo rmdir path_files
 
 4.create files_dir<br>
 ```
-$ sudo mvdir path_files
+$ sudo mkdir path_files
+```
+<br>
+
+5.move A to B <br>
+```
+$ sudo mv A B
 ```
 <br>
