@@ -29,3 +29,9 @@ $ sudo mkdir path_files
 $ sudo mv A B
 ```
 <br>
+
+6.backup img from Nano:
+```
+$sudo dd if=/dev/sdc of=nano_back_1.img
+```
+<br>
