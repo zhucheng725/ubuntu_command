@@ -35,3 +35,10 @@ $ sudo mv A B
 $sudo dd if=/dev/sdc of=nano_back_1.img
 ```
 <br>
+
+7.寻找某行代码<br>
+
+```
+grep -nr "代码" 路径 
+eg： grep -nr "mlir-opt yolov3_416_finetuning_without_detection_from_onnx_fp32.mlir" ~
+```
